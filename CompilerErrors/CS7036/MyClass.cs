@@ -4,7 +4,7 @@
     {
         public static int MyMethod()
         {
-            return ReturnInt(intParameter: 15);
+            return ReturnInt(intParameter: 5_689_375);
         }
 
         public static int ReturnInt(int intParameter)
